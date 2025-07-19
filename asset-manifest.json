@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memory-match-game/static/css/main.9f3af25b.css",
+    "main.js": "/memory-match-game/static/js/main.a2391114.js",
+    "static/js/453.0b86849b.chunk.js": "/memory-match-game/static/js/453.0b86849b.chunk.js",
+    "index.html": "/memory-match-game/index.html",
+    "main.9f3af25b.css.map": "/memory-match-game/static/css/main.9f3af25b.css.map",
+    "main.a2391114.js.map": "/memory-match-game/static/js/main.a2391114.js.map",
+    "453.0b86849b.chunk.js.map": "/memory-match-game/static/js/453.0b86849b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f3af25b.css",
+    "static/js/main.a2391114.js"
+  ]
+}
